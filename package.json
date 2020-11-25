@@ -34,8 +34,7 @@
     },
     "homepage": "https://github.com/toto/homebridge-iam-voc",
     "dependencies": {
-        "iam-voc-monitor": "^1.0.0",
-	"iam-voc-monitor": ""https://github.com/sieren/iam-voc-monitor.git",
+        "iam-voc-monitor": "https://github.com/sieren/iam-voc-monitor.git",
         "fakegato-history": "^0.5.3"
     }
 }
